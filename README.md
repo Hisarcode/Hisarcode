@@ -3,8 +3,7 @@
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=microsoft" />
-    <img src="https://img.shields.io/badge/Code-Swift-blue?&logo=swift" />
-    <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
+    <img src="https://img.shields.io/badge/Code-Java-blue?&logo=java" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
     <img src="https://gpvc.arturio.dev/Hisarcode" />
 </p>
@@ -17,7 +16,7 @@
 ### Let's connect!
 <p>
     <a href="https://hisar-managih.blogspot.com" target="blank"><img src="https://img.shields.io/badge/www-hisar--managih.blogspot.com-orange" /></a>
-    <a href="https://www.linkedin.com/in/hisarman-saragih" target="blank"><img src="https://img.shields.io/badge/Hisarman_Saragih-30302f?style=flat&logo=linkedin" /></a>
+    <a href="https://www.linkedin.com/in/hisarman-saragih-51480a1b7/" target="blank"><img src="https://img.shields.io/badge/Hisarman_Saragih-30302f?style=flat&logo=linkedin" /></a>
     <a href="https://twitter.com/HISARMAN" target="blank"><img src="https://img.shields.io/badge/@HISARMAN-30302f?style=flat&logo=twitter"/></a>
 </p>
 <!--
