@@ -16,7 +16,7 @@
 
 ### Let's connect!
 <p>
-    <a href="https://www.hisar-managih.blogspot.com" target="blank"><img src="https://img.shields.io/badge/Website-https://www.hisar-managih.blogspot.com-orange?" /></a>
+    <a href="https://www.hisar-managih.blogspot.com" target="blank"><img src="https://img.shields.io/badge/www-hisar--managih.blogspot.com-orange" /></a>
     <a href="https://www.linkedin.com/in/hisarman-saragih" target="blank"><img src="https://img.shields.io/badge/Hisarman_Saragih-30302f?style=flat&logo=linkedin" /></a>
     <a href="https://twitter.com/HISARMAN" target="blank"><img src="https://img.shields.io/badge/@HISARMAN-30302f?style=flat&logo=twitter"/></a>
 </p>
