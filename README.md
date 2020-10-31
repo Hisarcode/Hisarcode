@@ -3,10 +3,21 @@
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=microsoft" />
-    <img src="https://img.shields.io/badge/Code-Java-blue?&logo=java" />
+    <img src="https://img.shields.io/badge/Code-PHP-blue?&logo=php" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
     <img src="https://gpvc.arturio.dev/Hisarcode" />
 </p>
+
+### Stats:
+<details>
+ <summary><strong>What i am learning/working on these days</strong></summary>
+    - 🔭 I’m currently working on ... </br>
+    - 🌱 I’m currently learning PHP and Javascript </br>
+    - 💬 Ask me about anything.</br>
+    - 📫 How to reach me: <a href="mailto:hisarcode@gmail.com">Email me!</a>  </br>
+    - 😄 Pronouns: He/Him </br>
+    
+</details>
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=Hisarcode&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
